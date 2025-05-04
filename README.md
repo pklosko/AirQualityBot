@@ -9,6 +9,7 @@ This script will periodically go through the profiles of accounts that follow th
 
 ## AirQualityBot
 
-This script regularly sends daily reports and graphs from my [Air Quality Monitors](https://www.klosko.net/blog/=stitek=air-quality#airqmonitor).
-The second function is sending reports in case the maximum daily average value is exceeded.
+This script 
+- regularly sends daily reports and graphs from my [Air Quality Monitors](https://www.klosko.net/blog/=stitek=air-quality#airqmonitor).
+- sends reports in case the maximum daily average value is exceeded.
 
