@@ -18,10 +18,11 @@ hashtag_arr = [
     "#Feinstaub",
     "#KvalitaOvzduší",
     "#KvalitaVzduchu",
+    "#AirPollution",
     "@airqbot.klosko.net"
 ]
 
-bsky_user  = "airqbot.klosko.net"
+bsky_user  = "Replace with your BlueSky ID/name"
 bsky_pass  = "Generete unique pass at https://bsky.app/settings/app-passwords"
 token_file = "/path/to/tokens.json"
 
